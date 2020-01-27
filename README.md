@@ -1,8 +1,8 @@
 ## What is Laravel6Ecommerce
 
-* It's a under contruction project created with Laravel v6. The cPanel using PHP version 7.3 to running the application. There has a lots of functions and facilities into the application. *
+It's a under construction project created with Laravel v6. The cPanel using PHP version 7.3 to running the application. There has a lots of functions and facilities into the application.
 
-* I have created a list which include into the application. *
+I have created a list which include into the application.
 
 1. User Login: http://prntscr.com/qt3j4y
 2. User registration with dynamic dropdown area- http://prntscr.com/qt3jir 
